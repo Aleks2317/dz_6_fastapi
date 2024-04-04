@@ -1,0 +1,18 @@
+pydantic_Field.txt  Работа с полями моделей данных
+                    Перечень принимаемых функцией Field параметров
+                    Валидация данных моделей
+
+Работа с базой данных.txt   pip install sqlalchemy
+                            pip install databases[aiosqlite]
+                            Работа с БД в CRUD операциях с SQLAlchemy и databases
+                            Формирование CRUD
+main.py
+main_01.py  Базовые настройки
+main_02.py  Создание моделей
+main_03.py  Формирование CRUD
+
+Тестирование операций CRUD.txt
+
+Больше про валидацию данных.txt
+
+pip
